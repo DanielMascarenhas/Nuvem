@@ -43,4 +43,5 @@ app.listen(process.env.PORT ?? 3000,function(erro){  // cria a aplicaÃ§Ã£o n
     }else{
         console.log("Servidor Iniciado.");
     }
+    
 })
